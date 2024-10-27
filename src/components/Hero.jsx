@@ -1,6 +1,8 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { ArrowDownCircle } from 'lucide-react';
+import { SomeIcon } from 'lucide-react';
+
 import profilePic from "../assets/Vedant Singh.jpeg";
 
 const fadeIn = (delay) => ({
